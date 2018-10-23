@@ -1,0 +1,20 @@
+#welcome {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#welcome img {
+    width: 70%;
+}
+
+#welcome h1#title {
+    color: white;
+    font-size: 4rem;
+    letter-spacing: .5rem;
+}
+
+.fork-knife {
+    margin-left: 1rem;
+}
